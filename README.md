@@ -27,17 +27,6 @@ Place `sales_data.txt` (pipe-delimited) in project root.
 - `data/enriched_sales_data.txt` - API-enriched transactions
 - `output/sales_report.txt` - Comprehensive analytics report
 
-## Project Structure
-```
-SALES_ANALYTICS_SYSTEM/
-├── utils/              # Core modules
-│   ├── file_handler.py
-│   ├── data_parser.py
-│   ├── data_processor.py
-│   └── api_handler.py
-├── main.py             # Run this
-└── sales_data.txt      # Your data here
-
 ## **Key Features:**
 
 ✅ **Progress tracking** with [X/10] steps  
